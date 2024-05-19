@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![DedRec's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedRec&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DedRec&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DedRec&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **DedRec/DedRec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
