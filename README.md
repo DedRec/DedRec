@@ -7,8 +7,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DedRec&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DedRec&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 </details>
 
 <!--
@@ -24,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=DedRec&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 -->
